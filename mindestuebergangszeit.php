@@ -36,9 +36,9 @@ if ( ! isset ( $submit ) ) {
 	echo "<input type=\"radio\" name=\"einsteiger\" value=\"m_eist\">mit wartenden Einsteigern</input></td></tr>" ;
 	echo "<tr><td>Gesamtl&auml;nge der ebenen Abschnitte [m]</td>" ;
 	echo "<td><input type=\"text\" name=\"s_ebene\" value=\"0\"></td></tr>" ;
-	echo "<tr><td>Gesamtl&auml;nge der Rampen (aufw&auml;rts)[m]</td>" ;
+	echo "<tr><td>Gesamtl&auml;nge der Rampen (aufw&auml;rts) [m]</td>" ;
 	echo "<td><input type=\"text\" name=\"s_rampe_auf\" value=\"0\"></td></tr>" ;
-	echo "<tr><td>Gesamtl&auml;nge der Rampen (abw&auml;rts)[m]</td>" ;
+	echo "<tr><td>Gesamtl&auml;nge der Rampen (abw&auml;rts) [m]</td>" ;
 	echo "<td><input type=\"text\" name=\"s_rampe_ab\" value=\"0\"></td></tr>" ;
 	echo "<tr><td>Rampenneigung [%]</td>" ;
 	echo "<td><input type=\"text\" name=\"y\" value=\"0\"></td></tr>" ;
